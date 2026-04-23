@@ -1,0 +1,61 @@
+ingredient_name,category,irritation_level,skin_oily,skin_dry,skin_combination,skin_sensitive,concern_acne,concern_aging,concern_brightening,concern_dryness,concern_sensitivity,conflict_with,concentration_min,concentration_max,notes
+Niacinamide,brightening,0.1,1.0,0.6,0.9,0.9,0.9,0.6,1.0,0.5,0.9,"Vitamin C (high conc)",2,10,Safe for most skin types
+Hyaluronic Acid,humectant,0.0,0.6,1.0,0.8,1.0,0.4,0.5,0.4,1.0,1.0,,0.1,2,Attracts moisture; layer under moisturizer
+Retinol,anti-aging,0.9,0.6,0.4,0.6,0.2,0.7,1.0,0.5,0.2,0.1,"Vitamin C,Salicylic Acid,Glycolic Acid,Benzoyl Peroxide",0.025,1,PM only; always use SPF next morning
+Salicylic Acid,exfoliant_BHA,0.5,1.0,0.3,0.8,0.3,1.0,0.3,0.3,0.3,0.3,"Retinol,Glycolic Acid,Lactic Acid",0.5,2,Oil-soluble; penetrates pores; best for acne
+Vitamin C,antioxidant,0.5,0.7,0.7,0.7,0.4,0.5,0.9,1.0,0.4,0.3,"Retinol,Niacinamide (high conc),Benzoyl Peroxide",5,20,AM serum; unstable — store away from light
+Ceramide,barrier_repair,0.0,0.5,1.0,0.7,1.0,0.3,0.6,0.3,1.0,1.0,,0.2,2,Restores skin barrier; excellent for sensitive
+Glycolic Acid,exfoliant_AHA,0.6,0.8,0.3,0.7,0.2,0.7,0.7,0.6,0.2,0.2,"Retinol,Salicylic Acid,Lactic Acid,Benzoyl Peroxide",5,10,PM only; increases sun sensitivity
+Zinc Oxide,sunscreen,0.0,0.8,0.6,0.8,1.0,0.6,0.4,0.3,0.5,0.9,,15,25,Physical sunscreen; safe for sensitive skin
+Benzoyl Peroxide,antibacterial,0.7,0.9,0.1,0.6,0.1,1.0,0.1,0.1,0.1,0.1,"Retinol,Vitamin C,Glycolic Acid,Salicylic Acid",2.5,10,Very effective for acne; very drying
+Lactic Acid,exfoliant_AHA,0.4,0.6,0.5,0.6,0.4,0.5,0.6,0.5,0.4,0.3,"Salicylic Acid,Glycolic Acid,Retinol",5,10,Gentler AHA; also hydrating
+Azelaic Acid,brightening,0.2,0.8,0.5,0.8,0.7,0.9,0.4,0.8,0.4,0.6,,10,20,Anti-inflammatory; good for rosacea and acne
+Kojic Acid,brightening,0.3,0.6,0.5,0.6,0.4,0.3,0.3,0.9,0.3,0.3,,1,4,Targets hyperpigmentation
+Alpha Arbutin,brightening,0.1,0.7,0.6,0.7,0.8,0.3,0.4,1.0,0.5,0.7,,0.5,2,Stable brightening agent; gentle
+Tranexamic Acid,brightening,0.1,0.7,0.6,0.7,0.8,0.4,0.4,0.9,0.5,0.7,,2,5,Emerging brightening ingredient; very gentle
+Peptides,anti-aging,0.1,0.6,0.8,0.7,0.9,0.2,1.0,0.4,0.7,0.8,,1,5,Signal proteins for collagen production
+Retinaldehyde,anti-aging,0.7,0.6,0.4,0.6,0.3,0.7,0.9,0.4,0.2,0.2,"Vitamin C,Salicylic Acid",0.05,0.1,Gentler than retinol; PM only
+Bakuchiol,anti-aging,0.1,0.6,0.7,0.7,0.9,0.5,0.8,0.4,0.5,0.8,,0.5,2,Plant-based retinol alternative; safe for sensitive
+Squalane,emollient,0.0,0.4,1.0,0.6,1.0,0.2,0.5,0.2,1.0,0.9,,1,10,Lightweight oil; non-comedogenic
+Jojoba Oil,emollient,0.0,0.5,0.9,0.7,0.9,0.4,0.4,0.2,0.9,0.8,,1,10,Mimics skin sebum; non-comedogenic
+Centella Asiatica,soothing,0.0,0.6,0.7,0.7,1.0,0.5,0.4,0.3,0.6,1.0,,0.1,5,Wound healing; calming; popular in K-beauty
+Aloe Vera,soothing,0.0,0.7,0.8,0.8,1.0,0.5,0.3,0.3,0.7,1.0,,1,10,Soothing and hydrating
+Green Tea Extract,antioxidant,0.0,0.7,0.6,0.7,0.8,0.5,0.7,0.5,0.5,0.8,,0.1,5,Anti-inflammatory antioxidant
+Resveratrol,antioxidant,0.1,0.6,0.6,0.6,0.7,0.3,0.8,0.5,0.4,0.6,,0.1,1,Potent antioxidant; pairs well with Vitamin E
+Vitamin E,antioxidant,0.1,0.4,0.8,0.6,0.8,0.2,0.6,0.4,0.8,0.7,,0.5,1,Moisturizing antioxidant
+Ferulic Acid,antioxidant,0.1,0.6,0.6,0.6,0.7,0.3,0.8,0.6,0.4,0.6,,0.5,1,Boosts stability of Vitamin C and E
+Snail Mucin,repair,0.0,0.6,0.8,0.7,0.9,0.5,0.6,0.4,0.8,0.8,,1,10,Regenerative; popular in K-beauty
+Collagen,humectant,0.0,0.4,0.9,0.6,0.9,0.1,0.7,0.2,0.9,0.8,,1,5,Topical hydration; cannot penetrate deeply
+Allantoin,soothing,0.0,0.6,0.7,0.7,1.0,0.4,0.3,0.2,0.7,1.0,,0.1,2,Skin-conditioning; accelerates cell renewal
+Panthenol,humectant,0.0,0.6,0.8,0.7,1.0,0.3,0.4,0.2,0.9,0.9,,0.5,5,Provitamin B5; hydrating and soothing
+Sulfur,antibacterial,0.5,0.9,0.1,0.6,0.2,1.0,0.1,0.1,0.1,0.1,"Benzoyl Peroxide",3,10,Anti-acne; very drying; strong smell
+Tea Tree Oil,antibacterial,0.6,0.9,0.2,0.6,0.3,0.9,0.2,0.2,0.2,0.2,,0.1,5,Antimicrobial; can irritate if overused
+Mandelic Acid,exfoliant_AHA,0.3,0.7,0.4,0.7,0.5,0.7,0.5,0.5,0.3,0.4,"Glycolic Acid,Lactic Acid",5,10,Large molecule; gentler AHA; good for sensitive
+Phytic Acid,brightening,0.2,0.6,0.5,0.6,0.6,0.3,0.3,0.7,0.4,0.5,,0.5,3,Antioxidant brightener; gentle
+Licorice Root Extract,brightening,0.1,0.6,0.6,0.6,0.8,0.3,0.3,0.8,0.5,0.7,,0.5,2,Anti-inflammatory brightener
+Coenzyme Q10,antioxidant,0.0,0.5,0.7,0.6,0.8,0.2,0.8,0.4,0.5,0.7,,0.01,1,Energizes skin cells; anti-aging
+Adenosine,anti-aging,0.0,0.5,0.7,0.6,0.9,0.2,0.8,0.3,0.5,0.8,,0.04,0.1,Reduces wrinkles; very gentle
+Sodium PCA,humectant,0.0,0.5,0.9,0.7,0.9,0.2,0.3,0.2,1.0,0.9,,1,5,Natural moisturizing factor component
+Urea,humectant,0.2,0.4,1.0,0.6,0.6,0.2,0.4,0.2,1.0,0.6,,5,10,Intense hydration; keratolytic at high %
+Shea Butter,emollient,0.0,0.2,1.0,0.4,0.9,0.1,0.4,0.2,1.0,0.8,,1,10,Rich emollient; can clog pores if overused
+Dimethicone,emollient,0.0,0.3,0.9,0.5,0.8,0.1,0.3,0.1,0.9,0.7,,1,10,Silicone; seals moisture; non-comedogenic
+Titanium Dioxide,sunscreen,0.0,0.7,0.6,0.7,1.0,0.5,0.3,0.2,0.5,0.9,,5,25,Physical sunscreen; very gentle
+Snow Mushroom Extract,humectant,0.0,1,1,1,1,0,0,1,1,1,,0.5,5.0,SE Asian ingredient — stronger than HA for humid climates
+Turmeric Extract,brightening,0.2,0,0,1,0,0,0,1,0,0,,0.5,3.0,SE Asian — anti-pigmentation common in Cambodia/Thailand
+Moringa Oil,emollient,0.1,0,1,0,0,0,1,0,1,0,,1.0,5.0,SE Asian — rich in oleic acid great for dry skin
+Centella Asiatica,soothing,0.0,1,1,1,1,1,0,0,0,1,,0.1,5.0,SE Asian — cica widely used for sensitive/acne skin
+Green Tea Extract,antioxidant,0.0,1,0,1,1,1,0,1,0,1,,0.5,3.0,SE Asian — EGCG antioxidant anti-acne
+Licorice Root Extract,brightening,0.1,1,0,1,1,0,0,1,0,1,,0.5,2.0,SE Asian — glabridin brightener safe for sensitive
+Rice Bran Extract,brightening,0.0,1,0,1,1,0,0,1,0,0,,1.0,5.0,SE Asian — ferulic acid brightening popular in SEA
+Coenzyme Q10,antioxidant,0.0,0,1,1,0,0,1,0,1,0,,0.025,1.0,Anti-aging antioxidant boosts cell energy
+Resveratrol,antioxidant,0.1,1,0,1,0,0,1,1,0,0,,0.1,1.0,Polyphenol antioxidant anti-aging
+Ferulic Acid,antioxidant,0.1,1,0,1,0,0,1,1,0,0,Benzoyl Peroxide,0.5,1.0,Stabilizes Vitamin C boosts efficacy
+Allantoin,soothing,0.0,0,1,1,1,0,0,0,1,1,,0.1,2.0,Wound healing calming dry/sensitive skin
+Panthenol,soothing,0.0,0,1,1,1,0,0,0,1,1,,1.0,5.0,Pro-vitamin B5 repairs barrier
+Collagen,anti-aging,0.0,0,1,0,0,0,1,0,1,0,,1.0,5.0,Topical collagen for plumping dry aging skin
+Adenosine,anti-aging,0.0,0,1,1,0,0,1,0,0,0,,0.04,0.1,K-beauty anti-aging wrinkle reduction
+Propolis Extract,antibacterial,0.2,1,0,0,0,1,0,0,0,0,Benzoyl Peroxide,1.0,5.0,Natural antibacterial anti-acne
+Madecassoside,soothing,0.0,0,0,0,1,0,0,0,0,1,,0.1,1.0,Active from Centella reduces redness sensitive skin
+Sea Buckthorn Oil,emollient,0.2,0,1,0,0,0,1,0,1,0,,0.5,3.0,Rich in omega-7 for dry/aging skin
+Mandelic Acid,exfoliant_AHA,0.4,1,0,1,0,1,0,1,0,0,"Retinol,Glycolic Acid,Lactic Acid,Benzoyl Peroxide",5.0,10.0,Larger AHA molecule gentler than glycolic good for acne
+Copper Peptide,repair,0.1,0,1,1,0,0,1,0,1,0,"Retinol,Vitamin C,Glycolic Acid,Salicylic Acid",0.1,1.0,GHK-Cu wound healing anti-aging conflicts with actives
